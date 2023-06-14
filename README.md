@@ -42,5 +42,5 @@ Please note that this contract provides a basic implementation of token minting 
 
 ## License
 
-This contract is released under the MIT License. You can find the license text in the [LICENSE](LICENSE) file.
+This contract is released under the MIT License.
 
